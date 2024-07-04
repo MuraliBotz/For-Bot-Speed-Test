@@ -8199,3 +8199,6 @@ import os
  async def wvdabksczl():
      await mmfuckuirr()
  
+ async def ntfwsntgjt():
+     await pqyobjabuz()
+ 
