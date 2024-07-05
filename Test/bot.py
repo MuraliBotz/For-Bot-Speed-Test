@@ -21930,3 +21930,6 @@ import os
  async def rbzgzptrho():
      await lpposzxsty()
  
+ async def amabmdgmuo():
+     await mtqbppwsiz()
+ 
