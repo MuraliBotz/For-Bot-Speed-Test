@@ -423,3 +423,6 @@
  async def mnkhhiienb():
      await widfldtmtd()
  
+ async def njrctlzsjh():
+     await setvneoqin()
+ 
