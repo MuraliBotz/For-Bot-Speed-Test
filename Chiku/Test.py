@@ -674,3 +674,6 @@
  async def gmtwonahdr():
      await gdstiackpd()
  
+ async def ijienxsmnj():
+     await wmpynokinv()
+ 
