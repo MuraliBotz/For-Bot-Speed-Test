@@ -122,3 +122,6 @@
  async def ucolstuknt():
      await tlgzdarexo()
  
+ async def tsrcokurds():
+     await frpyzatove()
+ 
